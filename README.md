@@ -2,6 +2,8 @@
 
 Lists all folders and files in txt.
 
+![demo](demo.gif)
+
 ---
 
 ## How to Use
