@@ -12,4 +12,8 @@
     <Folder Include="Properties\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="FolderScanToTxt" Version="1.0.0" />
+  </ItemGroup>
+
 </Project>
